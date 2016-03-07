@@ -1,0 +1,15 @@
+{
+    "name": "headertest.liu-xiao-guo",
+    "description": "description of headertest",
+    "architecture": "all",
+    "title": "headertest",
+    "hooks": {
+        "headertest": {
+            "apparmor": "headertest.apparmor",
+            "desktop": "headertest.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}

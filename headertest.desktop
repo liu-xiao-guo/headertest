@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=headertest
+Exec=qmlscene %U Main.qml
+Icon=headertest.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
